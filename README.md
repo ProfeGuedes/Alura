@@ -1,2 +1,2 @@
-# alura_html_css
+# Alura
 Curso do Alura HTML CSS
